@@ -1,6 +1,6 @@
 # Eduardo Soroka
 
-Desenvolvedor Cobol migrando para o mundo Java 
+Desenvolvedor Cobol migrando para o mundo Java !!
 
 ### Me encontre !
 
